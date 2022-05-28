@@ -1,38 +1,61 @@
 from bs4 import BeautifulSoup
 from itertools import permutations
 import pandas as pd
-
+import re
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
 
 
-alphabet = 'abcdefghijklmnopqrstuvwxyz'
-alphabet = 'ab'
-base_url = 'https://search.k-state.edu/?qt={}&curtab=1'
-people_collection = [['name', 'email', 'eid','discription']]
-sleeptime = 1
+class Scraper():
 
-for two_letter_combo in permutations(alphabet, 2):
-    url = base_url.replace('{}', ''.join(two_letter_combo))
-    print(url)
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_argument('--headless')
-    chrome_options.add_argument('window-size=1920x1080');
-    driver = webdriver.Chrome('./chromedriver', options=chrome_options)
-    driver.get(url)
-    time.sleep(sleeptime)
-    squadPage=driver.page_source
-    soup = BeautifulSoup(squadPage, 'html.parser')
+    # Subset for testing
+    alphabet = 'abc' 
+    
+    # Full alphabet
+    # alphabet = 'abcdefghijklmnopqrstuvwxyz'
+    base_url = 'https://search.k-state.edu/?qt={}&curtab=1'
+    people_collection = []
+    sleeptime = 2
 
-    people = soup.find_all('div', class_="peopleResult")
-    print(people)
-    for person in people:
-        if person.find('dt', class_="student name"):
-            name = person.find('dt', class_="student name").string
-            email = person.find('dd', class_="focus").find('a').string
-            eid = person['eid']
-            discription = person.find('dd', class_="stuPlan").string
-            people_collection.append([name, email, eid, discription])
-            # print(people_collection)
-print(people_collection)
+    def __init__(self, path_to_chromdriver):
+        self.path_to_chromdriver = path_to_chromdriver
+
+    def scrape(self):
+        for two_letter_combo in permutations(self.alphabet, 2):
+            url = self.base_url.replace('{}', ''.join(two_letter_combo))
+            print(url)
+            chrome_options = webdriver.ChromeOptions()
+            chrome_options.add_argument('--headless')
+            chrome_options.add_argument('window-size=1920x1080')
+            driver = webdriver.Chrome(self.path_to_chromdriver, options=chrome_options)
+            driver.get(url)
+            time.sleep(self.sleeptime)
+            squadPage=driver.page_source
+            soup = BeautifulSoup(squadPage, 'html.parser')
+
+            people = soup.find_all('div', class_="peopleResult")
+            # print(people)
+            for person in people:
+                if person.find('dt', class_="student name"):
+                    name = person.find('dt', class_="student name").string
+                    name = re.sub(r'\s{2,}', ' ', name)
+                    email = person.find('dd', class_="focus").find('a').string
+                    discription = person.find('dd', class_="stuPlan").string
+                    discription = str(discription).replace('"', '')
+                    eid = person['eid']
+                    self.people_collection.append([str(name), str(email), str(discription), str(eid)])
+    
+    def clean_data(self):
+        self.df = pd.DataFrame(data=self.people_collection, columns= ['name', 'email', 'discription', 'eid']) 
+        self.df.drop_duplicates(subset=['email'], inplace= True)
+    
+    def write_data(self, path):
+        self.df.to_csv(path)
+
+if __name__ == '__main__':
+    # Add the correct path here
+    s = Scraper('./chromedriver')
+    s.scrape()
+    s.clean_data()
+    s.write_data('data.csv')

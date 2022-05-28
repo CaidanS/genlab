@@ -2,9 +2,11 @@
 
 ## Scrape K State Student Database
 
-This script does its best to collect and clean name/email pairs from the search.k-state.edu database. It makes no claims as too coverage of all students completeness.
+This script does its best to collect and clean name/email pairs from the search.k-state.edu database. It makes no claims as too coverage of all students completeness. Example output can be found in data.csv
 
 ## Installation
+
+You will need to install and configure the correct version of chromedriver for your system/version of chrome from here https://chromedriver.chromium.org/downloads
 
 ```
 git clone https://github.com/CaidanS/genlab.git
