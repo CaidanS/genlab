@@ -15,4 +15,6 @@ pip install -r requirements.txt
 
 ## Use
 
-`python3 scrape.py`
+```
+python3 scrape.py
+```
