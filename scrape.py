@@ -51,7 +51,7 @@ class Scraper():
                     except AttributeError:
                         grade = 'Not Found'
                         course = str(discription)
-                    if course == '':
+                    if course == '' or course == None:
                             course = 'Not Found'
                     eid = person['eid']
                     self.people_collection.append([str(name), str(email), str(eid), str(grade), str(course) ,str(discription)])
