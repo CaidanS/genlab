@@ -10,10 +10,11 @@ import time
 class Scraper():
 
     # Subset for testing
-    alphabet = 'abc' 
+    alphabet = 'ab' 
     
     # Full alphabet
     # alphabet = 'abcdefghijklmnopqrstuvwxyz'
+
     base_url = 'https://search.k-state.edu/?qt={}&curtab=1'
     people_collection = []
     sleeptime = 2
@@ -43,11 +44,20 @@ class Scraper():
                     email = person.find('dd', class_="focus").find('a').string
                     discription = person.find('dd', class_="stuPlan").string
                     discription = str(discription).replace('"', '')
+                    try:
+                        grade = re.search('(.*Masters|PhD|Freshman|Sophomore|Junior|Senior)(.*)', str(discription)).group(1)
+                        course = re.search('(.*Masters|PhD|Freshman|Sophomore|Junior|Senior)(.*)', str(discription)).group(2)                        
+                        print(grade,course)
+                    except AttributeError:
+                        grade = 'Not Found'
+                        course = str(discription)
+                    if course == '':
+                            course = 'Not Found'
                     eid = person['eid']
-                    self.people_collection.append([str(name), str(email), str(discription), str(eid)])
+                    self.people_collection.append([str(name), str(email), str(eid), str(grade), str(course) ,str(discription)])
     
     def clean_data(self):
-        self.df = pd.DataFrame(data=self.people_collection, columns= ['name', 'email', 'discription', 'eid']) 
+        self.df = pd.DataFrame(data=self.people_collection, columns= ['name', 'email', 'eid', 'grade', 'course', 'full discription']) 
         self.df.drop_duplicates(subset=['email'], inplace= True)
     
     def write_data(self, path):

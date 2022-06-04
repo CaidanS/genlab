@@ -1,392 +1,211 @@
-,name,email,discription,eid
-0,Konosuke Abe,konosuke@k-state.edu,Junior Aeronautical Technology,konosuke
-1,Haneen Sameer Abu-Sherbi,abusherb@k-state.edu,"Graduate Masters Architecture, Architecture, Community Planning",abusherb
-2,Walter Acpangan,walterac@k-state.edu,Graduate PhD Agricultural Economics,walterac
-3,Carl Af Forselles,carlafforselles@k-state.edu,Freshman Political Science,carlafforselles
-4,Ahmed Abdulrazzaq Qasim Al Mayyahi,mayyahia@k-state.edu,Graduate PhD Chemical Engineering,mayyahia
-5,Khalid Walid Ahmad Al Shboul,kwalshbo@k-state.edu,Graduate PhD Civil Engineering,kwalshbo
-6,Wejdan Hassan Al Thowaimer,wejdana@k-state.edu,"Senior Business Admin-PreProfessional, Graphic Design",wejdana
-7,Omar Ayad Abduljabbar Al-Ani,oalani@k-state.edu,Graduate Masters Elec and Comp Engineering,oalani
-8,Vinny Al-Birekdar,vfalbire@k-state.edu,Freshman Mechanical Engineering,vfalbire
-9,Zak Jaylen Al-Bureni,zaka@k-state.edu,Freshman Construction Sci And Mgmt,zaka
-10,Mohammed Al-Timeemy,altimeem@k-state.edu,Freshman Aeronautical Technology,altimeem
-11,Ahmad Altahri,altahri@k-state.edu,Senior Architectural Engineering,altahri
-12,Christopher An,ckan@k-state.edu,Graduate Masters Veterinary Biomedical Science,ckan
-13,Haoran An,haoran3@k-state.edu,Senior Computer Science,haoran3
-14,Xiaolei An,xiaolei@k-state.edu,Horticulture-B,xiaolei
-15,Alanna B Golden,abg@k-state.edu,"Sophomore Animal Sciences and Industry, Pre-Veterinary Medicine",abg
-16,Kristiina Ala-Kokko,kalakokko@k-state.edu,Graduate PhD Agricultural Economics,kalakokko
-17,Abdullah Abdullah Ali,abdull16@k-state.edu,Senior Chemical Engineering,abdull16
-18,Faisal Ali,faisal17@k-state.edu,Freshman Agribusiness,faisal17
-19,Maryam Ali,maryamali@k-state.edu,Graduate Masters Architecture,maryamali
-20,Susan Alu,salu@k-state.edu,Graduate Masters Adult Learning & Leadership,salu
-21,Hajar El Motamed,hajare@k-state.edu,Freshman Engg - Major Unspecified,hajare
-22,Mary Suzanne El-Aasar,elaasar@k-state.edu,"Junior Life Sciences-BS, Pre-Pharmacy-N",elaasar
-23,Parker Ann El-Attrache,pelattrache@k-state.edu,"Senior Psychology, Pre-Medicine, Life Sciences, Leadership Studies",pelattrache
-24,Diana El-Koubysi,elkoubysidiana@k-state.edu,Graduate Masters Business Administration,elkoubysidiana
-25,Laura Lee El-Koubysi,elkoull@k-state.edu,Freshman Industrial Engineering,elkoull
-26,Aliyah El-Naggar,aelnaggar@k-state.edu,Senior Finance,aelnaggar
-27,Hamza Elhabibi,elhabibi@k-state.edu,Freshman Business Admin-PreProfessnl-U,elhabibi
-28,Nooshan Mir Mohammad Ali,nooshanmir@k-state.edu,"Graduate PhD Food,Nutr,Diet&Health",nooshanmir
-29,Timothy Sung-Hyun Ahn,timahn@k-state.edu,"Graduate Masters Architecture, Chinese, Architecture",timahn
-30,Hongbin Wan,whb1224@k-state.edu,Junior ,whb1224
-31,Nenghan Wan,nenghan@k-state.edu,Graduate PhD Agronomy,nenghan
-32,Jia Hui Yan,jiahui2018@k-state.edu,Senior Interior Architecture,jiahui2018
-33,Stephanie Yan,fyan@k-state.edu,Graduate Masters Data Analytics,fyan
-34,Hadeel Abou-Jalalah,hadeelaj@k-state.edu,Graduate PhD Curriculum and Instruction,hadeelaj
-35,Kanwal Ayub,kanwalayub@k-state.edu,Graduate PhD Statistics,kanwalayub
-36,Kiran Ambreen Ayub,kaayub@k-state.edu,Graduate PhD Economics,kaayub
-37,Arthur Eby,abe0821@k-state.edu,"Graduate Masters Chemical Engineering-M, Undergraduate Credit",abe0821
-38,David Nevin Eby,dneby@k-state.edu,Freshman Business Admin-PreProfessional,dneby
-39,Olivia Joy Eby,ojeby@k-state.edu,Sophomore Business Admin-PreProfessional,ojeby
-40,Bruna Guidetti Abdo,brunaabdo@k-state.edu,Junior Arts and Sci-Open Option-U,brunaabdo
-41,Chloe Ryann Auf Der Heide,chloeadh@k-state.edu,Senior Interior Architecture,chloeadh
-42,MaHaley Dawn Abel,mahaleyabel@k-state.edu,Junior Elementary Education,mahaleyabel
-43,Nicole Renee Abel,nicoleabel@k-state.edu,Senior Equine Science-Ug Cert-C,nicoleabel
-44,John Eric Ortiz Abon,johnericabon@k-state.edu,Graduate PhD Biological & Agri Engg,johnericabon
-45,Antony Abro,aabro@k-state.edu,Freshman Business Admin-PreProfessnl-U,aabro
-46,Brynna Ade,bbrynna@k-state.edu,"Sophomore Fish, Wlife, Cons & Env Bio",bbrynna
-47,Shakiya Grace Aho,shakaho@k-state.edu,"Senior Pre-Physician Assistant-N, Minor - Leadership Studies",shakaho
-48,Pia Jimeno Ajo,pia1@k-state.edu,Senior Mgmt Information Systems,pia1
-49,Omar Sabri Arab,osa962@k-state.edu,"Graduate Masters Architecture, Architecture",osa962
-50,Zoe Christine Aiyi Arp,zcarp03@k-state.edu,Freshman Political Science,zcarp03
-51,Evelyn Loraine Ary,eary@k-state.edu,"1st Year Veterinary Medicine Veterinary Medicine, AS Graduate NonDegree, Microbiology, Animal Sci & Industry",eary
-52,Addison Mackenzie Ash,amash1116@k-state.edu,Senior Art Education,amash1116
-53,Tyler Joseph Ash,tjash@k-state.edu,"Senior Chemical Engineering, Leadership Studies",tjash
-54,Justin Eugene Erb,jeerb@k-state.edu,Freshman Agronomy,jeerb
-55,Ronny Im,ronnyim12345@k-state.edu,Senior Computer Engineering,ronnyim12345
-56,Alexa Martinez-Alba,alexa36@k-state.edu,Sophomore Pre-Profes Elementary Ed,alexa36
-57,Mary Frannie Van Es,mfvanes@k-state.edu,Freshman Pre-Profes Elementary Ed,mfvanes
-58,Ben Epp,brepp@k-state.edu,"Senior Gerontology, Nutritional Sciences, Pre-Dentistry",brepp
-59,Benjamin Lee Epp,benjaminepp@k-state.edu,Graduate Masters Master of Engineering Managmt,benjaminepp
-60,Maggie Adeline Epp,maepp@k-state.edu,Junior Comm Sciences & Disorders,maepp
-61,Tammi Sue Epp,tepp@k-state.edu,Graduate Masters Agribusiness-M,tepp
-62,Jessica Upah,jupah@k-state.edu,Graduate Masters Physician Assistant,jupah
-63,Alexis Nicole Webb,anwebb@k-state.edu,"Senior Biology, Pre-Medicine, Modern Languages",anwebb
-64,Andrea Harmon Webb,ahwebb@k-state.edu,Senior Food Science And Industry,ahwebb
-65,Braden Wade Webb,bwebb23@k-state.edu,"Senior Pre-Physical Therapy, Kinesiology",bwebb23
-66,Brandy Lea Webb,blhakala@k-state.edu,"Graduate PhD Sociology, Gender Women Sexuality",blhakala
-67,Brooke Webb,brookelynwebb@k-state.edu,High School Pre-College,brookelynwebb
-68,Bryce Timothy Webb,bwebb19@k-state.edu,Freshman Aeronautical Technology,bwebb19
-69,Caden Ray Webb,caden231@k-state.edu,Sophomore Construction Sci And Mgmt,caden231
-70,Crystal Webb,crystal23@k-state.edu,Non Degree Undergraduate Human Ecology-NonDegree GC,crystal23
-71,Elizabeth Anne Lorraine Webb,eawebb@k-state.edu,Graduate Masters Academic Advising-M,eawebb
-72,Elizabeth Lynne Webb,ewebb@k-state.edu,Graduate Masters Master of Engineering Managmt,ewebb
-73,Elizabeth Rose Webb,erwebb@k-state.edu,Freshman Pre-Psychology,erwebb
-74,Elliana Renea Webb,ellianaw@k-state.edu,"Sophomore Business Admin-PreProfessional, Busi of Sports & Enter, Leadership Studies",ellianaw
-75,Haley M Webb,hmwebb@k-state.edu,"Senior Animal Sciences and Industry, Leadership Studies",hmwebb
-76,Jackson Lawrence Webb,jackso33@k-state.edu,Freshman Business Admin-PreProfessional,jackso33
-77,James jr Webb,junior99257@k-state.edu,Graduate Masters Educational Leadership,junior99257
-78,John Lawrence Webb,johnwebb@k-state.edu,Sophomore Business Admin-PreProfessional,johnwebb
-79,Judith Webb,juwebb@k-state.edu,Graduate Masters Personal Financial Planning-M,juwebb
-80,Kayla Marie Webb,kaylamwebb@k-state.edu,Senior Management,kaylamwebb
-81,Lee Everett Webb,learjet@k-state.edu,Senior General Business Admin-B,learjet
-82,Logan Taylor Webb,ltwebb@k-state.edu,Junior Fine Arts,ltwebb
-83,Malayna Mariah Webb,malaynawebb5@k-state.edu,"Graduate Masters Public Health, Prof Inter Sciences",malaynawebb5
-84,Mason Blake Webb,mbwebb@k-state.edu,Freshman Biomedical Engineering,mbwebb
-85,Shaylee Lynn Webb,shaylee@k-state.edu,Nutrition and Health-B,shaylee
-86,Sunny Danielle Webb,sunny11@k-state.edu,"Senior Mechanical Engineering, Physics",sunny11
-87,Tanner Alan Webb,tawebb@k-state.edu,Senior Mgmt Information Systems,tawebb
-88,Ahmed Mohsen ABD El Fattah,mohsen77@k-state.edu,Graduate PhD ,mohsen77
-89,Ali Adnan Al Arbash,alarbash2@k-state.edu,Freshman Business Admin-PreProfessional,alarbash2
-90,Ebrahim Nasher Al-Aghbari,ebrahima@k-state.edu,Senior Milling Science & Management,ebrahima
-91,Mahmoud Husain Al-Bustan,albustan@k-state.edu,Freshman Computer Engineering,albustan
-92,Nana Baah Appiah-Nkansah,nanabaah@k-state.edu,Non Degree Graduate Biobased Prods & Bioenergy-C,nanabaah
-106,Linda A Camarillo,lac@k-state.edu,Graduate Masters ,lac
-107,Andrea Carolina Quintana-Santiago,acq@k-state.edu,Freshman Pre-Psychology,acq
-127,Gavin Theodore Auch,gtauch@k-state.edu,Freshman Business Admin-PreProfessional,gtauch
-128,Ashley Marie Eck,ashleyeck@k-state.edu,"Senior Life Sciences, Pre-Medicine, Spanish",ashleyeck
-129,Bailey James Eck,bjeck@k-state.edu,Senior Agricultural Economics,bjeck
-130,Jaley Ray Eck,jaleye@k-state.edu,"Freshman Biology, Pre-Pharmacy",jaleye
-131,Joel Allen Eck,michaelscarn@k-state.edu,"Senior Aeronautical Technology, Aviation Safety, Applied Business",michaelscarn
-132,Kasidee C Eck,kaseck6@k-state.edu,"Accounting, Pre-Dentistry, Biology",kaseck6
-133,Lainee Jo Eck,lainee@k-state.edu,Sophomore Pre-Profes Elementary Ed,lainee
-134,Marisha Jenae Eck,rish@k-state.edu,Special Undergraduate Arts and Sciences-Open-N,rish
-135,Paul Anthony Eck,paeck@k-state.edu,Junior Nutrition and Health,paeck
-136,Daniel Aks,daks@k-state.edu,Non Degree Undergraduate Biochemistry,daks
-139,Wyatt Acey,mwacey@k-state.edu,Freshman Animal Sciences and Industry,mwacey
-148,James Ackah-Blay,jackahb@k-state.edu,Freshman Medical Laboratory Science,jackahb
-149,Takanobu Aoki,taoki@k-state.edu,"Junior Aviation Safety, Aeronautical Technology, Professional Pilot-A",taoki
-150,Ahizechukwu Eke,aeke@k-state.edu,Non Degree Graduate VM Graduate NonDegree GC,aeke
-151,Melissa Sue Icke,mss3636@k-state.edu,Non Degree Graduate AS Graduate NonDegree DCE,mss3636
-152,Richard Ouk,rouk12@k-state.edu,Senior ,rouk12
-153,Jeffrey Daniel Wake,jdwake@k-state.edu,Senior Kinesiology,jdwake
-154,James Thomas Weck,jtweck2001@k-state.edu,"Junior Finance, Busi of Sports & Enter",jtweck2001
-155,Abby Wick,aow@k-state.edu,Freshman Dietetics,aow
-156,Jacob Anthony Wick,jawick@k-state.edu,"Senior Finance, Professional Strategic Selling",jawick
-157,Samantha Marie Wick,smwick@k-state.edu,"Junior Psychology, Conflict Analysis&Trauma",smwick
-158,Stephanie Wick,slwick@k-state.edu,Graduate PhD ,slwick
-159,Kelly Yake,kyake@k-state.edu,Sophomore Mechanical Engineering,kyake
-164,Jimeng Bai,jimeng@k-state.edu,Graduate Masters Food Science,jimeng
-165,Lu Bai,bailu@k-state.edu,Interior Arch & Product Dsgn-U,bailu
-166,Kaiming Bi,bikaiming@k-state.edu,Undergraduate Credit,bikaiming
-167,Catherine Obiribea Ofori-Bah,cooforibah@k-state.edu,Graduate PhD Agricultural Economics,cooforibah
-168,Jamie Bac,jlbac@k-state.edu,"Junior Life Sciences, Pre-Physician Assistant, Psychology, Gerontology",jlbac
-169,Gabrielle Nicole Bax,bax@k-state.edu,Freshman Environmental Design,bax
-170,Amy L Bax,amylbax@k-state.edu,Graduate Masters Agricultural Educ and Comm,amylbax
-171,Joe Bax,jdbax@k-state.edu,Freshman Electrical Engineering,jdbax
-172,Andrew Tuan Bui,abuics@k-state.edu,Sophomore Environmental Design,abuics
-173,Jordan Bui,jbui@k-state.edu,Junior Computer Science,jbui
-174,Luan Bui,luanbui@k-state.edu,Senior Engineering Technology,luanbui
-175,Tip Bui,tip@k-state.edu,Graduate Masters Data Analytics-M,tip
-176,Andrew John Bye,andrewjbye@k-state.edu,Freshman A&S: Open Option,andrewjbye
-177,Autumn P P Ramos-Clevenger,ramoscle@k-state.edu,"Senior Animal Sciences and Industry, Equine Science",ramoscle
-178,Briana La'Shay Bach,brianabach@k-state.edu,Freshman Social Work,brianabach
-179,Sheridan J Bach,sjbach@k-state.edu,Senior Psychology,sjbach
-180,Chloe Bagg,chloebagg@k-state.edu,"Sophomore Athl Trng & Rehab Sciences, Pre-Physician Assistant",chloebagg
-181,Elena Baka,ebaka@k-state.edu,Junior Communication Studies,ebaka
-182,Ravi Bika,rbika@k-state.edu,Graduate PhD Plant Pathology,rbika
-183,Josephine Mina Boac,jmboac@k-state.edu,Graduate PhD ,jmboac
-184,Angela Jein Pak,ajpak@k-state.edu,Senior Dietetics-B,ajpak
-185,Jamie Pak,jjpak@k-state.edu,Sophomore Nutrition and Health,jjpak
-186,Santiago Elias Rodriguez Baca,santiagorodriguez@k-state.edu,Freshman Business Admin-PreProfessional,santiagorodriguez
-188,Sidharth Babu,sidharthbabu@k-state.edu,"Graduate Masters Nutr, Ditetcs & Sensory Sci",sidharthbabu
-189,Arun Baby,ababy@k-state.edu,Freshman Business Admin-PreProfessnl-U,ababy
-190,Austin William Bade,awbade@k-state.edu,Senior Pre-Health Information Mgmt-N,awbade
-191,Bella Bade,icbade@k-state.edu,"Junior Life Sciences, Pre-Medicine",icbade
-192,Logan Reed Baer,lrbaer@k-state.edu,Sophomore Kinesiology,lrbaer
-193,Gracyn Rayne Baez,grbaxter@k-state.edu,Senior Elementary Education,grbaxter
-194,Anna Nicole Bahr,anbahr@k-state.edu,Non Degree Undergraduate Business Admin-NonDegree GC,anbahr
-195,Ava Grace Bahr,avabahr@k-state.edu,"Freshman Life Sciences, Pre-Pharmacy",avabahr
-196,Brittany Lyn Bahr,blbahr@k-state.edu,"Senior Chemical Engineering, Chemistry",blbahr
-197,Ella JaneMarie Bahr,ejbahr@k-state.edu,"Senior Life Sciences, Comm Sciences & Disorders, Integrated Health Studies, Leadership Studies, Biology",ejbahr
-198,Ike Bahr,ikeb@k-state.edu,Sophomore Agronomy,ikeb
-199,Savannah Bahr,savbahr@k-state.edu,"Junior Prof Strategic Selling, Leadership Studies, Marketing",savbahr
-200,Thomas P Bahr,tpbahr@k-state.edu,Freshman Agronomy,tpbahr
-201,Laura Bain,bainla@k-state.edu,"Graduate PhD Food,Nutr,Diet&Health",bainla
-202,Britt Lynn Bair,blbair@k-state.edu,Junior Business Admin-PreProfessional,blbair
-203,Brooke Danielle Bair,brookebair@k-state.edu,Senior Elementary Education,brookebair
-204,Henry James Bair,hjbair@k-state.edu,Freshman Biology,hjbair
-205,Shellie J Bair,bair@k-state.edu,Non Degree Graduate Graduate - General Admission,bair
-206,Frances Bale,rfbale@k-state.edu,Graduate Masters Gerontology,rfbale
-207,Andrea Jill Ball,andreaball@k-state.edu,Sophomore Pre-Journalism & Mass Comm-U,andreaball
-208,Andrew Jacob Ball,ajball@k-state.edu,Non Degree Undergraduate Technology-Undecided,ajball
-209,Conner Albert Ball,cbal3333@k-state.edu,Freshman Computer Engineering,cbal3333
-210,Jack Charles Ball,char518b@k-state.edu,Senior English,char518b
-211,James Elvin Ball,balljam000@k-state.edu,Junior Pre-Profes Secondary Ed,balljam000
-212,Kevin Ball,kwball@k-state.edu,Freshman Computer Science-PreProfession,kwball
-213,Leisha Ball,leisha@k-state.edu,Non Degree Graduate Financial Therapy-Grad Cert-C,leisha
-214,Maddie Ball,maddie212@k-state.edu,"Senior Fish, Wlife, Cons & Env Bio",maddie212
-215,Mary Ann Ball,maball@k-state.edu,"Senior Dietetics, Nutrition and Health",maball
-216,Max Ball,mrball@k-state.edu,"Freshman Athl Trng & Rehab Sciences, Pre-Physical Therapy",mrball
-217,Noah Kristie Ball,nkball14@k-state.edu,Junior A&S: Open Option,nkball14
-218,Sierra Susan Ball,ssball@k-state.edu,Freshman Fashion Studies,ssball
-219,TJ Ball,tjball@k-state.edu,"Senior Pre-Medicine-N, Pre-Law-N",tjball
-220,Marybeth Lao Bano-Rizzo,mbano@k-state.edu,Graduate EdD Curriculum and Instruction,mbano
-221,Jason Thomas Bare,jtbare@k-state.edu,Senior Prof Strategic Selling,jtbare
-222,Ryan Robert Bare,rbare@k-state.edu,Senior Management,rbare
-223,Alexis Michelle Barr,alexisbarr@k-state.edu,Freshman Pre-Profes Elementary Ed,alexisbarr
-224,Cassidy Layne Barr,cassid7@k-state.edu,Freshman Environmental Design,cassid7
-225,Eden C Barr,ecbarr@k-state.edu,"Freshman ED Graduate NonDegree, Education-NonDegree",ecbarr
-226,Logan J Barr,lbarr@k-state.edu,Freshman Computer Engineering,lbarr
-227,Regan Vera Barr,rvbarr@k-state.edu,Freshman Kinesiology,rvbarr
-228,Taryn Barr,taryn15@k-state.edu,Sophomore Business Admin-PreProfessional,taryn15
-229,Abby Barr-Donnelly,abbyb79@k-state.edu,"Senior Dietetics, Gerontology",abbyb79
-230,Derek Base,based@k-state.edu,Graduate EdD Curriculum and Instruction,based
-231,Henry H Bash,hhbash@k-state.edu,Freshman EN Selective Admis-Undecided,hhbash
-232,Jenn Bass,jdbass@k-state.edu,Junior Nutrition and Health,jdbass
-233,Josh Bass,jjbass@k-state.edu,Freshman Biology,jjbass
-234,Maggie Bass,maggie085@k-state.edu,Senior Psychology,maggie085
-235,Justin Marshall Batt,jmb@k-state.edu,Senior ,jmb
-236,Jacey Renee Baum,jrbaum@k-state.edu,Freshman Agribusiness,jrbaum
-237,Bridger Augustus Baus,bbaus@k-state.edu,Freshman Mechanical Engineering,bbaus
-238,Drake Anthony Baus,drake04@k-state.edu,Freshman Computer Science-PreProfession,drake04
-239,Cassidy Jo Beal,cjbeal@k-state.edu,Freshman Interior Design,cjbeal
-240,George Beal,j22jorge02@k-state.edu,"Sophomore Business Admin-PreProfessional, Professional Strategic Selling",j22jorge02
-241,Rebecca Ann Beal,rabeal@k-state.edu,Senior Teaching Cert-Early Childhd-U,rabeal
-242,Catie M Beam,catieb@k-state.edu,Sophomore Elementary Education,catieb
-243,Katelyn Noelle Beam,knbeam@k-state.edu,"Senior Elementary Education, Business, Leadership Studies",knbeam
-244,Deidre Kim Bean,dkbean@k-state.edu,3rd Year Veterinary Medicine Veterinary Medicine,dkbean
-245,Jewel Faith Bean,jewelb@k-state.edu,Freshman Nutritional Sciences,jewelb
-246,Keegan Bean,keeganibean@k-state.edu,Senior Computer Science,keeganibean
-247,Wendy Lee Bean,wendy33@k-state.edu,Non Degree Graduate Academic Advising-Grad Cert-C,wendy33
-248,Zoe Moon Bean,h16zbean@k-state.edu,Senior Animal Sciences and Industry,h16zbean
-249,Mckenzie Bear,mcken2zbear@k-state.edu,Non Degree Graduate AG Graduate NonDegree,mcken2zbear
-250,Hannah Michelle Bena,hbena@k-state.edu,Senior Architectural Engineering,hbena
-251,Sneha Bera,sneharoy@k-state.edu,Graduate PhD Adult Learning & Leadership,sneharoy
-252,Allison Faith Besa,afbesa@k-state.edu,Sophomore Sociology,afbesa
-253,Sydney Anne Besa,sbesa@k-state.edu,"Senior Sociology, Spanish",sbesa
-254,Hengzhao Bian,bianh@k-state.edu,Graduate Masters Electrical Engineering-M,bianh
-255,Ruolin Bian,rbian@k-state.edu,Graduate PhD Agronomy,rbian
-256,Lailah Bias,lailahb@k-state.edu,Freshman Animal Sciences and Industry,lailahb
-257,Justin Dean Bina,jbina97@k-state.edu,Non Degree Graduate Graduate - General Admission,jbina97
-258,Quinten Jeffrey Bina,qjbina@k-state.edu,Freshman Agricultural Education,qjbina
-259,Alyssa Jade Bly,ajbly1@k-state.edu,Freshman Pre-Profes Secondary Ed,ajbly1
-260,Spencer Edward Boaz,seboaz@k-state.edu,4th Year Veterinary Medicine Veterinary Medicine,seboaz
-261,Jana S Bray,jsbray@k-state.edu,Freshman Bakery Science And Mgmt,jsbray
-262,Lorraine E Bray,lebray@k-state.edu,Freshman Animal Sciences and Industry,lebray
-263,Nicholas Edmund Bray,nickb09@k-state.edu,Freshman Biomedical Engineering,nickb09
-264,Alex De-Paz,depaz@k-state.edu,Sophomore Business Admin-PreProfessional,depaz
-265,Madeline Desena De La Paz,desenmad@k-state.edu,"Finance, Leadership Studies",desenmad
-266,Syed Haroon Bin Farrukh,sharoon@k-state.edu,Graduate PhD Economics,sharoon
-267,Yi Pan,panyi@k-state.edu,Graduate Masters Public Health-M,panyi
-268,Emanuel Alexander Paz,elpsycongroo@k-state.edu,Senior Mechanical Engineering,elpsycongroo
-269,Daniel Perera,dperera@k-state.edu,Senior Communication Studies,dperera
-270,Joel Scott Baier,joelb02@k-state.edu,Senior Marketing,joelb02
-271,Rachel Baier,rmbaier@k-state.edu,"Graduate Masters Architecture, Architecture",rmbaier
-272,Stephanie Baugh,sbaugh@k-state.edu,Junior Dietetics,sbaugh
-273,Ashenafi Feyisa Beyi,afbeyi@k-state.edu,Non Degree Graduate VM Graduate NonDegree GC,afbeyi
-274,Drew Robert Boeh,boeh@k-state.edu,Senior Data Analytics-Ug Cert-C,boeh
-275,Erika Boeh,erikaboeh@k-state.edu,"Senior Human Dev & Fam Science, Conflict Resolution, Spanish, Conflict Analysis&Trauma",erikaboeh
-276,Lauren Dana Boye,ldboye@k-state.edu,Junior Architectural Engineering-B,ldboye
-277,Pak Boye-Doe,pak25@k-state.edu,"Senior Leadership Studies, Social Sciences",pak25
-278,Simeon Zadkiel Buie,sbuie13@k-state.edu,Sophomore Animal Sciences and Industry,sbuie13
-279,Umme Fatema Piu,fatemapiu@k-state.edu,"Graduate Masters Civil Engineering, Biological And Agric Engg",fatemapiu
-280,Julianna M Poe,jmpoe@k-state.edu,Freshman Business Admin-PreProfessional,jmpoe
-283,Nate Cline,nbc@k-state.edu,Sophomore A&S: Open Option,nbc
-284,Brendan Carter Newcomer,bcn@k-state.edu,"Senior Biology, Pre-Medicine, American Ethnic Stud",bcn
-287,Ashley Beck,beckashleynicole@k-state.edu,Freshman Business Admin-PreProfessional,beckashleynicole
-288,Cam Beck,camb@k-state.edu,Sophomore Fine Arts,camb
-289,Christopher Beck,chrisbeck1209@k-state.edu,Graduate Masters Food Science,chrisbeck1209
-290,Conner James Beck,conner35@k-state.edu,"Freshman Mechanical Engineering, Japanese",conner35
-291,Dalton Gray Beck,daltong13@k-state.edu,Sophomore Kinesiology,daltong13
-292,Jacob Matthew Beck,jmbeck13@k-state.edu,"Senior Computer Science, Business",jmbeck13
-293,Kaden Cole Beck,kcbeck@k-state.edu,"Junior Architecture, Leadership Studies",kcbeck
-294,Lauren R Beck,lrbeck@k-state.edu,Senior Microbiology,lrbeck
-295,Matticyn Grace Beck,matticyn@k-state.edu,Freshman Microbiology,matticyn
-296,Natalie Kay Beck,nkbeck@k-state.edu,"Senior Marketing, Professional Strategic Selling",nkbeck
-297,Sydney Anne Beck,sydneybeck@k-state.edu,Freshman Business Admin-PreProfessional,sydneybeck
-298,Trevor Lawrence Beck,trevorbeck@k-state.edu,Freshman Computer Engineering,trevorbeck
-300,Granite Paul Bock,graniteb@k-state.edu,Senior Computer Engineering,graniteb
-301,Olivia C Bock,ocbock@k-state.edu,Freshman Pre-Psychology,ocbock
-302,Alex Buck,ajbuck@k-state.edu,Freshman Architectural Engineering,ajbuck
-303,Dalton Buck,dbuck99@k-state.edu,"Sophomore Nutrition and Health, Pre-Nursing WSU",dbuck99
-304,Melissa Jo Buck,jojo@k-state.edu,Sophomore Minor - Women's Studies,jojo
-309,Brian Sheldon Box,bsbox@k-state.edu,Non Degree Undergraduate Technology-NonDegree,bsbox
-310,Megan Musgrove Box,mmbox@k-state.edu,Senior Elementary Education,mmbox
-311,Rickeldo Box,rickeldb@k-state.edu,Junior Mechanical Engineering,rickeldb
-316,Allison Belle Beach,abeach511@k-state.edu,Junior Park Mgmt & Conservation,abeach511
-317,Britlyn Ray Beach,bbeach@k-state.edu,"Junior Biology, Pre-Medicine, Business",bbeach
-318,Hope Rileigh Beach,hbeach21@k-state.edu,Senior Pre-Occupational Therapy-N,hbeach21
-320,Emily Cole Book,ebook@k-state.edu,Senior Interior Design,ebook
-321,Michael Stone Book,mbook18@k-state.edu,"Junior Biology, Pre-Dentistry",mbook18
-322,Alexandra J Bucko,ajbucko@k-state.edu,Senior Dietetics,ajbucko
-323,Kelsey Lee Buek,klbuek@k-state.edu,Non Degree Graduate Graduate - General Admission,klbuek
-324,Natalie Buick,nbbuick@k-state.edu,Senior Pre-Profes Elementary Ed,nbbuick
-325,Nijel Christian Pack,npack24@k-state.edu,Sophomore Business Admin-PreProfessional,npack24
-328,Austin Bradley Peck,abpeck@k-state.edu,Sophomore Business Admin-PreProfessional,abpeck
-329,Garrett Matthew Peck,gmpeck@k-state.edu,Sophomore Agribusiness,gmpeck
-330,Hayley Renee Peck,hayrepeck@k-state.edu,Senior Animal Sciences and Industry,hayrepeck
-331,Isabelle Ann Peck,iapeck@k-state.edu,Junior Business Admin-PreProfessional,iapeck
-332,Laura Content Peck,lcp3636@k-state.edu,Graduate PhD ,lcp3636
-333,Noah Peck,noahpeck@k-state.edu,Sophomore Engineering Technology,noahpeck
-334,Phiefer Laine Peck,phiefer@k-state.edu,"Freshman Biology, Pre-Pharmacy",phiefer
-335,Sydney Lyn Peck,slpeck@k-state.edu,Freshman Life Sciences,slpeck
-336,Cecilia Pickgomez,ceciliapick96@k-state.edu,Graduate Masters English,ceciliapick96
-337,Agustin Bock,aguscei6@k-state.edu,Freshman Business Admin-PreProfessional,aguscei6
-338,Richard Lin Cao,richardcao23@k-state.edu,Freshman Computer Science-PreProfession,richardcao23
-339,Shulei Cao,shulei@k-state.edu,Graduate PhD Physics,shulei
-340,Rajiv Jung K C,rajivkc@k-state.edu,Graduate Masters Statistics,rajivkc
-341,Carley Victoria Anders,cva@k-state.edu,"Senior Kinesiology, Pre-Physician Assistant",cva
-342,Victor Cortez Armstrong-Tharp,vca@k-state.edu,Graduate Masters Counseling & Student Devel,vca
-343,Nathan Curtis Arnold,nca@k-state.edu,Senior ,nca
-344,Bradley Allan Caya,caya@k-state.edu,Senior Park Mgmt & Conservation,caya
-345,Andrea Jean Coia,ajcoia@k-state.edu,Graduate Masters Counseling & Student Devel,ajcoia
-346,Olivia Kaitlyn Colston Coe,okc@k-state.edu,Freshman Aeronautical Technology,okc
-347,April Coy,alcoy@k-state.edu,Graduate Masters Food Science,alcoy
-348,Russell Dean Coy,rdcoy@k-state.edu,"Sophomore Athl Trng & Rehab Sciences, Pre-Physical Therapy",rdcoy
-349,Rylee Alexis Coy,ryleec@k-state.edu,"Junior Horticulture, Agricultural Education",ryleec
-350,Boxuan Cui,boxuan@k-state.edu,Senior Integrated Computer Science,boxuan
-351,Muyun Cui,muyunc@k-state.edu,Graduate Masters Veterinary Biomedical Science,muyunc
-352,Manou Donche-Gay,manon@k-state.edu,Senior Economics,manon
-353,Jincheng Gao,jcgao@k-state.edu,Non Degree Graduate Statistics-G,jcgao
-354,Ya Gao,grace1990@k-state.edu,Graduate PhD Civil Engineering,grace1990
-355,Yuting Gao,yutingg@k-state.edu,Graduate PhD Environmental Design and Plng,yutingg
-356,Dakota Samuel Gay,dakotagay@k-state.edu,Junior Architectural Engineering,dakotagay
-357,Qiyun Gu,qiyun1@k-state.edu,Graduate Masters Business Administration,qiyun1
-358,Jonathan Kha,jkha@k-state.edu,"Freshman Biomedical Engineering, Pre-Veterinary Medicine",jkha
-359,Ethan Jin Hyun Ko,ethanko921@k-state.edu,Freshman Mechanical Engineering,ethanko921
-360,Ian Jin Yong Ko,ianjinko@k-state.edu,Senior Industrial Engineering,ianjinko
-361,Susanna Ko,susannak@k-state.edu,Graduate Masters Food Science,susannak
-362,Jing Qi,jingq@k-state.edu,Graduate PhD Grain Science,jingq
-363,Thomas Qi,dtqi@k-state.edu,Freshman Computer Science-PreProfession,dtqi
-364,Cerena Nicole Cady,cncady@k-state.edu,Sophomore Chemical Engineering,cncady
-365,Cassidy Nicole Cage,cncage@k-state.edu,"Graduate Masters Business Administration, Animal Sciences and Industry, Leadership Studies, Professional Strategic Selling",cncage
-366,Tyler Cage,tacage@k-state.edu,"Graduate Masters Data Analytics-M, Operations Research-M",tacage
-367,Amy Elizabeth Cain,aecain@k-state.edu,Graduate PhD Counseling & Student Devel,aecain
-368,Andia Cain,ascain@k-state.edu,Junior Animal Sciences and Industry,ascain
-369,Arden Bethan Cain,ardenc@k-state.edu,Sophomore Business Admin-PreProfessional,ardenc
-370,Ava Brianne Cain,acain22@k-state.edu,Freshman Biology,acain22
-371,Christopher Ryan Cain,crcain@k-state.edu,Freshman A&S: Open Option,crcain
-372,James Stephen Cain,jscain@k-state.edu,Graduate Masters Data Analytics-M,jscain
-373,Kamryn Beth Cain,kamrync@k-state.edu,"Senior Minor - Gender Women Sexuality, Minor - English",kamrync
-374,Logan Cain,ldcain@k-state.edu,Sophomore Business Admin-PreProfessional,ldcain
-375,Nikole Leanna Cain,nikolec@k-state.edu,"Non Degree Graduate Graduate Credit, Teaching Cert-Agric Educ-U",nikolec
-376,Rebekah Marie Cain,rmcain@k-state.edu,Senior Teaching Cert-Agric Educ-U,rmcain
-377,Jade Alexis Cale,jacale@k-state.edu,Freshman Environmental Design,jacale
-378,Alixus Taylor Call,atcall00@k-state.edu,"Junior Fish, Wlife, Cons & Env Bio",atcall00
-379,Grace Calo,gracecalo2@k-state.edu,3rd Year Veterinary Medicine Veterinary Medicine,gracecalo2
-380,Jai'De Favian Cano,jfcano@k-state.edu,Sophomore Kinesiology-B,jfcano
-381,Rosa Cano,rcano@k-state.edu,Junior Management,rcano
-382,Angel Joy Galiposo Cape,angeljoy@k-state.edu,Non Degree Undergraduate Animal Sciences and Industry,angeljoy
-383,Colton L Cape,colton420@k-state.edu,Sophomore A&S: Open Option,colton420
-384,Morgan Cape,mncape@k-state.edu,"Graduate Masters Nutr, Ditetcs & Sensory Sci, Dietetics",mncape
-385,Ashley Lamoine Carr,carral@k-state.edu,Senior Teaching Cert in Ag Education,carral
-386,Cc Carr,cianac@k-state.edu,"Freshman Human Ecology, Undeclared, Pre-Medicine",cianac
-387,Culhan Joseph Carr,culhan@k-state.edu,Sophomore Architecture,culhan
-388,Daniel Joseph Carr,danielcarr@k-state.edu,BA Graduate NonDegree GC,danielcarr
-389,Des Carr,destinycarr@k-state.edu,High School Pre-College,destinycarr
-390,Ethan Miles Carr,ecarr01@k-state.edu,Junior A&S: Open Option,ecarr01
-391,Evan Robert Carr,evan61@k-state.edu,Freshman Environmental Design,evan61
-392,Fischer Loch Carr,fcarr@k-state.edu,"Senior Finance, Pre-Law",fcarr
-393,Mary Elizabeth Carr,marycarr@k-state.edu,Senior University Honors Program-N,marycarr
-394,Mary Vishakha Carr,maryvcarr@k-state.edu,"Senior Life Sciences, Pre-Nursing, Psychology",maryvcarr
-395,Megan Margaret Carr,megancarr@k-state.edu,Freshman A&S: Open Option,megancarr
-396,Peyton Gregory Carr,peytonc@k-state.edu,"Senior Management, Leadership Studies",peytonc
-397,Ryleigh Dawn Carr,rdcarr@k-state.edu,Sophomore Agronomy,rdcarr
-398,Samantha Jean Carr,sjcarr@k-state.edu,Junior Interior Design,sjcarr
-399,Sarah Carr,lynniecarr@k-state.edu,"Graduate Masters Civil Engineering, Leadership Studies",lynniecarr
-400,Teddy Carr,teddycarr14@k-state.edu,Freshman Business Admin-PreProfessional,teddycarr14
-401,Tom Carr,trcarr@k-state.edu,Freshman Business Admin-PreProfessional,trcarr
-402,Sean Patrick Carr-Metzger,carrmsea@k-state.edu,Freshman Computer Engineering,carrmsea
-403,Cameron Levi Carr-Thompson,camlct21@k-state.edu,Freshman Biological Systems Engg,camlct21
-404,Hailey Rose Case,hhaileycase@k-state.edu,Senior Mass Communications,hhaileycase
-405,Kohl Lawrence Case,klcase@k-state.edu,Senior Minor - Leadership Studies,klcase
-406,Ryleigh Renee Case,rrcase@k-state.edu,Freshman Agricultural Education,rrcase
-407,Taylor Benton Case,tbcase@k-state.edu,Senior Construction Sci And Mgmt,tbcase
-408,Caitlin L Cash,caitlinc@k-state.edu,Senior Minor-Children in Group Settg,caitlinc
-409,Lexi Cash,lexicash1@k-state.edu,"Junior Biology, Pre-Medicine",lexicash1
-410,Michaela Lauren Cash,mlcash@k-state.edu,"Graduate Masters Food Science, Food Safety and Defense",mlcash
-411,Tanner Shane Cash,tcash02@k-state.edu,Sophomore Pre-Profes Secondary Ed,tcash02
-412,Ashley Elizabeth Cass,aecass@k-state.edu,"Senior Management, University Honors Program-N, Leadership Studies",aecass
-413,Stephen E. Cass,secass@k-state.edu,Senior Chemistry-BS,secass
-414,Janiya Kenya Cato,janiya@k-state.edu,Freshman Environmental Design,janiya
-415,Courtney Nicole Catt,cncatt@k-state.edu,"Senior Biology, Pre-Veterinary Medicine, Animal Sci & Industry",cncatt
-416,Cameron Ian Coad,camcod@k-state.edu,Sophomore Business Admin-PreProfessional,camcod
-417,Emma Elizabeth Coad,eecoad@k-state.edu,"Sophomore Business Admin-PreProfessional, Hospitality Management",eecoad
-418,Stacey Coad,scoad@k-state.edu,Non Degree Graduate Graduate - General Admission,scoad
-419,David Omar Coba,dcoba66@k-state.edu,Junior Aeronautical Technology,dcoba66
-420,Haley Lynn Cuba,haleycuba6@k-state.edu,1st Year Veterinary Medicine Veterinary Medicine-D,haleycuba6
-421,Lena Suyuin Gan,lgan@k-state.edu,Graduate PhD Personal Financial Planning,lgan
-422,Fatima Vital-Caro,vitalf@k-state.edu,Senior Biology,vitalf
-423,Evelyn Wen Xuan Guo,evelyn070801@k-state.edu,Senior Animal Sciences and Industry,evelyn070801
-424,LinRuo Guo,linruo@k-state.edu,Graduate PhD Statistics,linruo
-425,Yiyao Guo,yiyao@k-state.edu,Senior Business Admin-PreProfessional,yiyao
-426,Yungui Guo,yungui1@k-state.edu,Graduate PhD Biochemistry,yungui1
-427,Hannah Kay Guy,hkguy@k-state.edu,"Senior Nutrition and Health, Pre-Nursing WSU",hkguy
-428,Mary Guy,mkguy@k-state.edu,Non Degree Graduate Financial Therapy,mkguy
-429,Eda Ceren Kaya,eda@k-state.edu,Graduate PhD Food Science,eda
-430,Alex John Key,ajkey02@k-state.edu,Freshman Construction Sci And Mgmt,ajkey02
-431,Brady Edward Key,bkey27@k-state.edu,Junior Mechanical Engineering,bkey27
-432,Cameron Carlton Key,camkey99@k-state.edu,"Senior Biochemistry, Pre-Medicine, Chemistry",camkey99
-433,Morgan Alyse Key,makey99@k-state.edu,"Senior Equine Science-Ug Cert-C, Minor - Pet Food Science",makey99
-434,Tiffany Key,tkey@k-state.edu,Non Degree Graduate HE Graduate NonDegree GC,tkey
-435,Hannah Koe,hkoe@k-state.edu,Freshman Biochemistry,hkoe
-436,Kali Koy,kalik97@k-state.edu,Non Degree Graduate AG Graduate NonDegree,kalik97
-437,Chingying Kuo,simon199976@k-state.edu,Graduate Masters Data Analytics,simon199976
-440,Alexus Ann Cobb,alexus1231@k-state.edu,Senior Nutrition and Health,alexus1231
-441,Lathe Michael Cobb,lathecobb@k-state.edu,Senior Mass Communications,lathecobb
-442,Max Cobb,mcobb16@k-state.edu,Junior Sociology,mcobb16
-447,Rhian Cope,rhian@k-state.edu,Non Degree Graduate VM Graduate NonDegree GC,rhian
-448,Shelby Anne Cope,shelby1214@k-state.edu,"Senior Psychology, Graphic Design, Natural Resources & Envir Sci",shelby1214
-449,Kristine Elizabeth Copp,kriscopp@k-state.edu,Freshman ,kriscopp
-450,Brett Elijah Coup,bcoup1@k-state.edu,Freshman Mechanical Engineering,bcoup1
-451,Makayla Nicole Coup,mncoup@k-state.edu,"Senior Biology, Pre-Medicine",mncoup
-452,Samuel Dwayne Coup,sam007@k-state.edu,"Graduate Masters Landscape Architecture, Landscape Architecture",sam007
-453,Trace H Coup,thcoup@k-state.edu,Freshman Business Admin-PreProfessional,thcoup
-454,Colton Charles Cupp,cccupp@k-state.edu,Freshman Animal Sciences and Industry,cccupp
-455,Dalsy Elizabeth Cupp,dalsy@k-state.edu,Senior Fine Arts,dalsy
-456,Jay Cupp,jcupp@k-state.edu,Freshman Aeronautical Technology,jcupp
-457,William Louis Cupp,wlcupp@k-state.edu,"Junior Management, Entrepreneurship & Innovation",wlcupp
-458,Tristyn Riley Kaeb,tristynk@k-state.edu,Junior Art Education,tristynk
-459,Jill Kube,jkube@k-state.edu,Special Undergraduate Bakery Science,jkube
+,name,email,eid,grade,course,full discription
+0,Konosuke Abe,konosuke@k-state.edu,konosuke,Junior, Aeronautical Technology,Junior Aeronautical Technology
+1,Haneen Sameer Abu-Sherbi,abusherb@k-state.edu,abusherb,Graduate Masters," Architecture, Architecture, Community Planning","Graduate Masters Architecture, Architecture, Community Planning"
+2,Walter Acpangan,walterac@k-state.edu,walterac,PhD, Agricultural Economics,Graduate PhD Agricultural Economics
+3,Carl Af Forselles,carlafforselles@k-state.edu,carlafforselles,Freshman, Political Science,Freshman Political Science
+4,Min Ai,amsports@k-state.edu,amsports,Freshman, Mechanical Engineering,Freshman Mechanical Engineering
+5,Ahmed Abdulrazzaq Qasim Al Mayyahi,mayyahia@k-state.edu,mayyahia,PhD, Chemical Engineering,Graduate PhD Chemical Engineering
+6,Khalid Walid Ahmad Al Shboul,kwalshbo@k-state.edu,kwalshbo,PhD, Civil Engineering,Graduate PhD Civil Engineering
+7,Wejdan Hassan Al Thowaimer,wejdana@k-state.edu,wejdana,Senior," Business Admin-PreProfessional, Graphic Design","Senior Business Admin-PreProfessional, Graphic Design"
+8,Omar Ayad Abduljabbar Al-Ani,oalani@k-state.edu,oalani,Graduate Masters, Elec and Comp Engineering,Graduate Masters Elec and Comp Engineering
+9,Vinny Al-Birekdar,vfalbire@k-state.edu,vfalbire,Freshman, Mechanical Engineering,Freshman Mechanical Engineering
+10,Zak Jaylen Al-Bureni,zaka@k-state.edu,zaka,Freshman, Construction Sci And Mgmt,Freshman Construction Sci And Mgmt
+11,Mohammed Al-Timeemy,altimeem@k-state.edu,altimeem,Freshman, Aeronautical Technology,Freshman Aeronautical Technology
+12,Ahmad Altahri,altahri@k-state.edu,altahri,Senior, Architectural Engineering,Senior Architectural Engineering
+13,Christopher An,ckan@k-state.edu,ckan,Graduate Masters, Veterinary Biomedical Science,Graduate Masters Veterinary Biomedical Science
+14,Haoran An,haoran3@k-state.edu,haoran3,Senior, Computer Science,Senior Computer Science
+15,Xiaolei An,xiaolei@k-state.edu,xiaolei,Not Found,Horticulture-B,Horticulture-B
+16,Alanna B Golden,abg@k-state.edu,abg,Sophomore," Animal Sciences and Industry, Pre-Veterinary Medicine","Sophomore Animal Sciences and Industry, Pre-Veterinary Medicine"
+17,Kristiina Ala-Kokko,kalakokko@k-state.edu,kalakokko,PhD, Agricultural Economics,Graduate PhD Agricultural Economics
+18,Abdul Manaf Ali,abdulman@k-state.edu,abdulman,Senior, Business Admin-PreProfessional,Senior Business Admin-PreProfessional
+19,Abdullah Abdullah Ali,abdull16@k-state.edu,abdull16,Senior, Chemical Engineering,Senior Chemical Engineering
+20,Faisal Ali,faisal17@k-state.edu,faisal17,Freshman, Agribusiness,Freshman Agribusiness
+21,Maryam Ali,maryamali@k-state.edu,maryamali,Graduate Masters, Architecture,Graduate Masters Architecture
+22,Susan Alu,salu@k-state.edu,salu,Graduate Masters, Adult Learning & Leadership,Graduate Masters Adult Learning & Leadership
+23,Hajar El Motamed,hajare@k-state.edu,hajare,Freshman, Engg - Major Unspecified,Freshman Engg - Major Unspecified
+24,Mary Suzanne El-Aasar,elaasar@k-state.edu,elaasar,Junior," Life Sciences-BS, Pre-Pharmacy-N","Junior Life Sciences-BS, Pre-Pharmacy-N"
+25,Parker Ann El-Attrache,pelattrache@k-state.edu,pelattrache,Senior," Psychology, Pre-Medicine, Life Sciences, Leadership Studies","Senior Psychology, Pre-Medicine, Life Sciences, Leadership Studies"
+26,Diana El-Koubysi,elkoubysidiana@k-state.edu,elkoubysidiana,Graduate Masters, Business Administration,Graduate Masters Business Administration
+27,Laura Lee El-Koubysi,elkoull@k-state.edu,elkoull,Freshman, Industrial Engineering,Freshman Industrial Engineering
+28,Aliyah El-Naggar,aelnaggar@k-state.edu,aelnaggar,Senior, Finance,Senior Finance
+29,Hamza Elhabibi,elhabibi@k-state.edu,elhabibi,Freshman, Business Admin-PreProfessnl-U,Freshman Business Admin-PreProfessnl-U
+30,Nooshan Mir Mohammad Ali,nooshanmir@k-state.edu,nooshanmir,PhD," Food,Nutr,Diet&Health","Graduate PhD Food,Nutr,Diet&Health"
+31,Timothy Sung-Hyun Ahn,timahn@k-state.edu,timahn,Graduate Masters," Architecture, Chinese, Architecture","Graduate Masters Architecture, Chinese, Architecture"
+32,Hongbin Wan,whb1224@k-state.edu,whb1224,Junior, ,Junior 
+33,Nenghan Wan,nenghan@k-state.edu,nenghan,PhD, Agronomy,Graduate PhD Agronomy
+34,Jia Hui Yan,jiahui2018@k-state.edu,jiahui2018,Senior, Interior Architecture,Senior Interior Architecture
+35,Stephanie Yan,fyan@k-state.edu,fyan,Graduate Masters, Data Analytics,Graduate Masters Data Analytics
+36,Hadeel Abou-Jalalah,hadeelaj@k-state.edu,hadeelaj,PhD, Curriculum and Instruction,Graduate PhD Curriculum and Instruction
+37,Kanwal Ayub,kanwalayub@k-state.edu,kanwalayub,PhD, Statistics,Graduate PhD Statistics
+38,Kiran Ambreen Ayub,kaayub@k-state.edu,kaayub,PhD, Economics,Graduate PhD Economics
+39,Arthur Eby,abe0821@k-state.edu,abe0821,Graduate Masters," Chemical Engineering-M, Undergraduate Credit","Graduate Masters Chemical Engineering-M, Undergraduate Credit"
+40,David Nevin Eby,dneby@k-state.edu,dneby,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+41,Olivia Joy Eby,ojeby@k-state.edu,ojeby,Sophomore, Business Admin-PreProfessional,Sophomore Business Admin-PreProfessional
+42,Bruna Guidetti Abdo,brunaabdo@k-state.edu,brunaabdo,Junior, Arts and Sci-Open Option-U,Junior Arts and Sci-Open Option-U
+43,Chloe Ryann Auf Der Heide,chloeadh@k-state.edu,chloeadh,Senior, Interior Architecture,Senior Interior Architecture
+44,MaHaley Dawn Abel,mahaleyabel@k-state.edu,mahaleyabel,Junior, Elementary Education,Junior Elementary Education
+45,Nicole Renee Abel,nicoleabel@k-state.edu,nicoleabel,Senior, Equine Science-Ug Cert-C,Senior Equine Science-Ug Cert-C
+46,John Eric Ortiz Abon,johnericabon@k-state.edu,johnericabon,PhD, Biological & Agri Engg,Graduate PhD Biological & Agri Engg
+47,Antony Abro,aabro@k-state.edu,aabro,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+48,Brynna Ade,bbrynna@k-state.edu,bbrynna,Sophomore," Fish, Wlife, Cons & Env Bio","Sophomore Fish, Wlife, Cons & Env Bio"
+49,Shakiya Grace Aho,shakaho@k-state.edu,shakaho,Senior," Pre-Physician Assistant-N, Minor - Leadership Studies","Senior Pre-Physician Assistant-N, Minor - Leadership Studies"
+50,Pia Jimeno Ajo,pia1@k-state.edu,pia1,Senior, Mgmt Information Systems,Senior Mgmt Information Systems
+51,Omar Sabri Arab,osa962@k-state.edu,osa962,Graduate Masters," Architecture, Architecture","Graduate Masters Architecture, Architecture"
+52,Zoe Christine Aiyi Arp,zcarp03@k-state.edu,zcarp03,Freshman, Political Science,Freshman Political Science
+53,Evelyn Loraine Ary,eary@k-state.edu,eary,Not Found,"1st Year Veterinary Medicine Veterinary Medicine, AS Graduate NonDegree, Microbiology, Animal Sci & Industry","1st Year Veterinary Medicine Veterinary Medicine, AS Graduate NonDegree, Microbiology, Animal Sci & Industry"
+54,Addison Mackenzie Ash,amash1116@k-state.edu,amash1116,Senior, Art Education,Senior Art Education
+55,Tyler Joseph Ash,tjash@k-state.edu,tjash,Senior," Chemical Engineering, Leadership Studies","Senior Chemical Engineering, Leadership Studies"
+56,Justin Eugene Erb,jeerb@k-state.edu,jeerb,Freshman, Agronomy,Freshman Agronomy
+57,Ronny Im,ronnyim12345@k-state.edu,ronnyim12345,Senior, Computer Engineering,Senior Computer Engineering
+58,Alexa Martinez-Alba,alexa36@k-state.edu,alexa36,Sophomore, Pre-Profes Elementary Ed,Sophomore Pre-Profes Elementary Ed
+59,Mary Frannie Van Es,mfvanes@k-state.edu,mfvanes,Freshman, Pre-Profes Elementary Ed,Freshman Pre-Profes Elementary Ed
+60,Ben Epp,brepp@k-state.edu,brepp,Senior," Gerontology, Nutritional Sciences, Pre-Dentistry","Senior Gerontology, Nutritional Sciences, Pre-Dentistry"
+61,Benjamin Lee Epp,benjaminepp@k-state.edu,benjaminepp,Graduate Masters, Master of Engineering Managmt,Graduate Masters Master of Engineering Managmt
+62,Maggie Adeline Epp,maepp@k-state.edu,maepp,Junior, Comm Sciences & Disorders,Junior Comm Sciences & Disorders
+63,Tammi Sue Epp,tepp@k-state.edu,tepp,Graduate Masters, Agribusiness-M,Graduate Masters Agribusiness-M
+64,Jessica Upah,jupah@k-state.edu,jupah,Graduate Masters, Physician Assistant,Graduate Masters Physician Assistant
+65,Alexis Nicole Webb,anwebb@k-state.edu,anwebb,Senior," Biology, Pre-Medicine, Modern Languages","Senior Biology, Pre-Medicine, Modern Languages"
+66,Andrea Harmon Webb,ahwebb@k-state.edu,ahwebb,Senior, Food Science And Industry,Senior Food Science And Industry
+67,Braden Wade Webb,bwebb23@k-state.edu,bwebb23,Senior," Pre-Physical Therapy, Kinesiology","Senior Pre-Physical Therapy, Kinesiology"
+68,Brandy Lea Webb,blhakala@k-state.edu,blhakala,PhD," Sociology, Gender Women Sexuality","Graduate PhD Sociology, Gender Women Sexuality"
+69,Brooke Webb,brookelynwebb@k-state.edu,brookelynwebb,Not Found,High School Pre-College,High School Pre-College
+70,Bryce Timothy Webb,bwebb19@k-state.edu,bwebb19,Freshman, Aeronautical Technology,Freshman Aeronautical Technology
+71,Caden Ray Webb,caden231@k-state.edu,caden231,Sophomore, Construction Sci And Mgmt,Sophomore Construction Sci And Mgmt
+72,Crystal Webb,crystal23@k-state.edu,crystal23,Not Found,Non Degree Undergraduate Human Ecology-NonDegree GC,Non Degree Undergraduate Human Ecology-NonDegree GC
+73,Elizabeth Anne Lorraine Webb,eawebb@k-state.edu,eawebb,Graduate Masters, Academic Advising-M,Graduate Masters Academic Advising-M
+74,Elizabeth Lynne Webb,ewebb@k-state.edu,ewebb,Graduate Masters, Master of Engineering Managmt,Graduate Masters Master of Engineering Managmt
+75,Elizabeth Rose Webb,erwebb@k-state.edu,erwebb,Freshman, Pre-Psychology,Freshman Pre-Psychology
+76,Elliana Renea Webb,ellianaw@k-state.edu,ellianaw,Sophomore," Business Admin-PreProfessional, Busi of Sports & Enter, Leadership Studies","Sophomore Business Admin-PreProfessional, Busi of Sports & Enter, Leadership Studies"
+77,Jackson Lawrence Webb,jackso33@k-state.edu,jackso33,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+78,James jr Webb,junior99257@k-state.edu,junior99257,Graduate Masters, Educational Leadership,Graduate Masters Educational Leadership
+79,John Lawrence Webb,johnwebb@k-state.edu,johnwebb,Sophomore, Business Admin-PreProfessional,Sophomore Business Admin-PreProfessional
+80,Judith Webb,juwebb@k-state.edu,juwebb,Graduate Masters, Personal Financial Planning-M,Graduate Masters Personal Financial Planning-M
+81,Kayla Marie Webb,kaylamwebb@k-state.edu,kaylamwebb,Senior, Management,Senior Management
+82,Lee Everett Webb,learjet@k-state.edu,learjet,Senior, General Business Admin-B,Senior General Business Admin-B
+83,Logan Taylor Webb,ltwebb@k-state.edu,ltwebb,Junior, Fine Arts,Junior Fine Arts
+84,Malayna Mariah Webb,malaynawebb5@k-state.edu,malaynawebb5,Graduate Masters," Public Health, Prof Inter Sciences","Graduate Masters Public Health, Prof Inter Sciences"
+85,Mason Blake Webb,mbwebb@k-state.edu,mbwebb,Freshman, Biomedical Engineering,Freshman Biomedical Engineering
+86,Shaylee Lynn Webb,shaylee@k-state.edu,shaylee,Not Found,Nutrition and Health-B,Nutrition and Health-B
+87,Sunny Danielle Webb,sunny11@k-state.edu,sunny11,Senior," Mechanical Engineering, Physics","Senior Mechanical Engineering, Physics"
+88,Tanner Alan Webb,tawebb@k-state.edu,tawebb,Senior, Mgmt Information Systems,Senior Mgmt Information Systems
+89,Ahmed Mohsen ABD El Fattah,mohsen77@k-state.edu,mohsen77,PhD, ,Graduate PhD 
+90,Ali Adnan Al Arbash,alarbash2@k-state.edu,alarbash2,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+91,Ebrahim Nasher Al-Aghbari,ebrahima@k-state.edu,ebrahima,Senior, Milling Science & Management,Senior Milling Science & Management
+92,Mahmoud Husain Al-Bustan,albustan@k-state.edu,albustan,Freshman, Computer Engineering,Freshman Computer Engineering
+93,Nana Baah Appiah-Nkansah,nanabaah@k-state.edu,nanabaah,Not Found,Non Degree Graduate Biobased Prods & Bioenergy-C,Non Degree Graduate Biobased Prods & Bioenergy-C
+94,Jimeng Bai,jimeng@k-state.edu,jimeng,Graduate Masters, Food Science,Graduate Masters Food Science
+95,Lu Bai,bailu@k-state.edu,bailu,Not Found,Interior Arch & Product Dsgn-U,Interior Arch & Product Dsgn-U
+96,Kaiming Bi,bikaiming@k-state.edu,bikaiming,Not Found,Undergraduate Credit,Undergraduate Credit
+97,Catherine Obiribea Ofori-Bah,cooforibah@k-state.edu,cooforibah,PhD, Agricultural Economics,Graduate PhD Agricultural Economics
+98,Jamie Bac,jlbac@k-state.edu,jlbac,Junior," Life Sciences, Pre-Physician Assistant, Psychology, Gerontology","Junior Life Sciences, Pre-Physician Assistant, Psychology, Gerontology"
+99,Gabrielle Nicole Bax,bax@k-state.edu,bax,Freshman, Environmental Design,Freshman Environmental Design
+100,Amy L Bax,amylbax@k-state.edu,amylbax,Graduate Masters, Agricultural Educ and Comm,Graduate Masters Agricultural Educ and Comm
+101,Joe Bax,jdbax@k-state.edu,jdbax,Freshman, Electrical Engineering,Freshman Electrical Engineering
+102,Andrew Tuan Bui,abuics@k-state.edu,abuics,Sophomore, Environmental Design,Sophomore Environmental Design
+103,Jordan Bui,jbui@k-state.edu,jbui,Junior, Computer Science,Junior Computer Science
+104,Luan Bui,luanbui@k-state.edu,luanbui,Senior, Engineering Technology,Senior Engineering Technology
+105,Thu Thi Thanh Bui,thu1@k-state.edu,thu1,Freshman, Hospitality Management,Freshman Hospitality Management
+106,Tip Bui,tip@k-state.edu,tip,Graduate Masters, Data Analytics-M,Graduate Masters Data Analytics-M
+107,Andrew John Bye,andrewjbye@k-state.edu,andrewjbye,Freshman, A&S: Open Option,Freshman A&S: Open Option
+108,Autumn P P Ramos-Clevenger,ramoscle@k-state.edu,ramoscle,Senior," Animal Sciences and Industry, Equine Science","Senior Animal Sciences and Industry, Equine Science"
+109,Briana La'Shay Bach,brianabach@k-state.edu,brianabach,Freshman, Social Work,Freshman Social Work
+110,Sheridan J Bach,sjbach@k-state.edu,sjbach,Senior, Psychology,Senior Psychology
+111,Chloe Bagg,chloebagg@k-state.edu,chloebagg,Sophomore," Athl Trng & Rehab Sciences, Pre-Physician Assistant","Sophomore Athl Trng & Rehab Sciences, Pre-Physician Assistant"
+112,Elena Baka,ebaka@k-state.edu,ebaka,Junior, Communication Studies,Junior Communication Studies
+113,Ravi Bika,rbika@k-state.edu,rbika,PhD, Plant Pathology,Graduate PhD Plant Pathology
+114,Josephine Mina Boac,jmboac@k-state.edu,jmboac,PhD, ,Graduate PhD 
+115,Angela Jein Pak,ajpak@k-state.edu,ajpak,Senior, Dietetics-B,Senior Dietetics-B
+116,Jamie Pak,jjpak@k-state.edu,jjpak,Sophomore, Nutrition and Health,Sophomore Nutrition and Health
+117,Santiago Elias Rodriguez Baca,santiagorodriguez@k-state.edu,santiagorodriguez,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+118,James Ackah-Blay,jackahb@k-state.edu,jackahb,Freshman, Medical Laboratory Science,Freshman Medical Laboratory Science
+119,Sidharth Babu,sidharthbabu@k-state.edu,sidharthbabu,Graduate Masters," Nutr, Ditetcs & Sensory Sci","Graduate Masters Nutr, Ditetcs & Sensory Sci"
+120,Arun Baby,ababy@k-state.edu,ababy,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+121,Austin William Bade,awbade@k-state.edu,awbade,Senior, Pre-Health Information Mgmt-N,Senior Pre-Health Information Mgmt-N
+122,Bella Bade,icbade@k-state.edu,icbade,Junior," Life Sciences, Pre-Medicine","Junior Life Sciences, Pre-Medicine"
+123,Siddharth Bade Vinod,siddharthatksu@k-state.edu,siddharthatksu,Freshman, Computer Science-PreProfession,Freshman Computer Science-PreProfession
+124,Logan Reed Baer,lrbaer@k-state.edu,lrbaer,Sophomore, Kinesiology,Sophomore Kinesiology
+125,Gracyn Rayne Baez,grbaxter@k-state.edu,grbaxter,Senior, Elementary Education,Senior Elementary Education
+126,Anna Nicole Bahr,anbahr@k-state.edu,anbahr,Not Found,Non Degree Undergraduate Business Admin-NonDegree GC,Non Degree Undergraduate Business Admin-NonDegree GC
+127,Ava Grace Bahr,avabahr@k-state.edu,avabahr,Freshman," Life Sciences, Pre-Pharmacy","Freshman Life Sciences, Pre-Pharmacy"
+128,Brittany Lyn Bahr,blbahr@k-state.edu,blbahr,Senior," Chemical Engineering, Chemistry","Senior Chemical Engineering, Chemistry"
+129,Ella JaneMarie Bahr,ejbahr@k-state.edu,ejbahr,Senior," Life Sciences, Comm Sciences & Disorders, Integrated Health Studies, Leadership Studies, Biology","Senior Life Sciences, Comm Sciences & Disorders, Integrated Health Studies, Leadership Studies, Biology"
+130,Ike Bahr,ikeb@k-state.edu,ikeb,Sophomore, Agronomy,Sophomore Agronomy
+131,Savannah Bahr,savbahr@k-state.edu,savbahr,Junior," Prof Strategic Selling, Leadership Studies, Marketing","Junior Prof Strategic Selling, Leadership Studies, Marketing"
+132,Thomas P Bahr,tpbahr@k-state.edu,tpbahr,Freshman, Agronomy,Freshman Agronomy
+133,Laura Bain,bainla@k-state.edu,bainla,PhD," Food,Nutr,Diet&Health","Graduate PhD Food,Nutr,Diet&Health"
+134,Britt Lynn Bair,blbair@k-state.edu,blbair,Junior, Business Admin-PreProfessional,Junior Business Admin-PreProfessional
+135,Brooke Danielle Bair,brookebair@k-state.edu,brookebair,Senior, Elementary Education,Senior Elementary Education
+136,Henry James Bair,hjbair@k-state.edu,hjbair,Freshman, Biology,Freshman Biology
+137,Shellie J Bair,bair@k-state.edu,bair,Not Found,Non Degree Graduate Graduate - General Admission,Non Degree Graduate Graduate - General Admission
+138,Frances Bale,rfbale@k-state.edu,rfbale,Graduate Masters, Gerontology,Graduate Masters Gerontology
+139,Andrea Jill Ball,andreaball@k-state.edu,andreaball,Sophomore, Pre-Journalism & Mass Comm-U,Sophomore Pre-Journalism & Mass Comm-U
+140,Andrew Jacob Ball,ajball@k-state.edu,ajball,Not Found,Non Degree Undergraduate Technology-Undecided,Non Degree Undergraduate Technology-Undecided
+141,Conner Albert Ball,cbal3333@k-state.edu,cbal3333,Freshman, Computer Engineering,Freshman Computer Engineering
+142,Jack Charles Ball,char518b@k-state.edu,char518b,Senior, English,Senior English
+143,James Elvin Ball,balljam000@k-state.edu,balljam000,Junior, Pre-Profes Secondary Ed,Junior Pre-Profes Secondary Ed
+144,Kevin Ball,kwball@k-state.edu,kwball,Freshman, Computer Science-PreProfession,Freshman Computer Science-PreProfession
+145,Leisha Ball,leisha@k-state.edu,leisha,Not Found,Non Degree Graduate Financial Therapy-Grad Cert-C,Non Degree Graduate Financial Therapy-Grad Cert-C
+146,Maddie Ball,maddie212@k-state.edu,maddie212,Senior," Fish, Wlife, Cons & Env Bio","Senior Fish, Wlife, Cons & Env Bio"
+147,Mary Ann Ball,maball@k-state.edu,maball,Senior," Dietetics, Nutrition and Health","Senior Dietetics, Nutrition and Health"
+148,Max Ball,mrball@k-state.edu,mrball,Freshman," Athl Trng & Rehab Sciences, Pre-Physical Therapy","Freshman Athl Trng & Rehab Sciences, Pre-Physical Therapy"
+149,Noah Kristie Ball,nkball14@k-state.edu,nkball14,Junior, A&S: Open Option,Junior A&S: Open Option
+150,Sierra Susan Ball,ssball@k-state.edu,ssball,Freshman, Fashion Studies,Freshman Fashion Studies
+151,TJ Ball,tjball@k-state.edu,tjball,Senior," Pre-Medicine-N, Pre-Law-N","Senior Pre-Medicine-N, Pre-Law-N"
+152,Marybeth Lao Bano-Rizzo,mbano@k-state.edu,mbano,Not Found,Graduate EdD Curriculum and Instruction,Graduate EdD Curriculum and Instruction
+153,Jason Thomas Bare,jtbare@k-state.edu,jtbare,Senior, Prof Strategic Selling,Senior Prof Strategic Selling
+154,Ryan Robert Bare,rbare@k-state.edu,rbare,Senior, Management,Senior Management
+155,Alexis Michelle Barr,alexisbarr@k-state.edu,alexisbarr,Freshman, Pre-Profes Elementary Ed,Freshman Pre-Profes Elementary Ed
+156,Cassidy Layne Barr,cassid7@k-state.edu,cassid7,Freshman, Environmental Design,Freshman Environmental Design
+157,Eden C Barr,ecbarr@k-state.edu,ecbarr,Freshman," ED Graduate NonDegree, Education-NonDegree","Freshman ED Graduate NonDegree, Education-NonDegree"
+158,Logan J Barr,lbarr@k-state.edu,lbarr,Freshman, Computer Engineering,Freshman Computer Engineering
+159,Regan Vera Barr,rvbarr@k-state.edu,rvbarr,Freshman, Kinesiology,Freshman Kinesiology
+160,Taryn Barr,taryn15@k-state.edu,taryn15,Sophomore, Business Admin-PreProfessional,Sophomore Business Admin-PreProfessional
+161,Abby Barr-Donnelly,abbyb79@k-state.edu,abbyb79,Senior," Dietetics, Gerontology","Senior Dietetics, Gerontology"
+162,Derek Base,based@k-state.edu,based,Not Found,Graduate EdD Curriculum and Instruction,Graduate EdD Curriculum and Instruction
+163,Henry H Bash,hhbash@k-state.edu,hhbash,Sophomore, EN Referred-Sel Adm,Sophomore EN Referred-Sel Adm
+164,Jenn Bass,jdbass@k-state.edu,jdbass,Junior, Nutrition and Health,Junior Nutrition and Health
+165,Josh Bass,jjbass@k-state.edu,jjbass,Freshman, Biology,Freshman Biology
+166,Maggie Bass,maggie085@k-state.edu,maggie085,Senior, Psychology,Senior Psychology
+167,Justin Marshall Batt,jmb@k-state.edu,jmb,Senior, ,Senior 
+168,Jacey Renee Baum,jrbaum@k-state.edu,jrbaum,Freshman, Agribusiness,Freshman Agribusiness
+169,Bridger Augustus Baus,bbaus@k-state.edu,bbaus,Freshman, Mechanical Engineering,Freshman Mechanical Engineering
+170,Drake Anthony Baus,drake04@k-state.edu,drake04,Freshman, Computer Science-PreProfession,Freshman Computer Science-PreProfession
+171,Cassidy Jo Beal,cjbeal@k-state.edu,cjbeal,Freshman, Interior Design,Freshman Interior Design
+172,George Beal,j22jorge02@k-state.edu,j22jorge02,Sophomore," Business Admin-PreProfessional, Professional Strategic Selling","Sophomore Business Admin-PreProfessional, Professional Strategic Selling"
+173,Rebecca Ann Beal,rabeal@k-state.edu,rabeal,Senior, Teaching Cert-Early Childhd-U,Senior Teaching Cert-Early Childhd-U
+174,Catie M Beam,catieb@k-state.edu,catieb,Sophomore, Elementary Education,Sophomore Elementary Education
+175,Deidre Kim Bean,dkbean@k-state.edu,dkbean,Not Found,3rd Year Veterinary Medicine Veterinary Medicine,3rd Year Veterinary Medicine Veterinary Medicine
+176,Jewel Faith Bean,jewelb@k-state.edu,jewelb,Freshman, Nutritional Sciences,Freshman Nutritional Sciences
+177,Keegan Bean,keeganibean@k-state.edu,keeganibean,Senior, Computer Science,Senior Computer Science
+178,Wendy Lee Bean,wendy33@k-state.edu,wendy33,Not Found,Non Degree Graduate Academic Advising-Grad Cert-C,Non Degree Graduate Academic Advising-Grad Cert-C
+179,Zoe Moon Bean,h16zbean@k-state.edu,h16zbean,Senior, Animal Sciences and Industry,Senior Animal Sciences and Industry
+180,Mckenzie Bear,mcken2zbear@k-state.edu,mcken2zbear,Not Found,Non Degree Graduate AG Graduate NonDegree,Non Degree Graduate AG Graduate NonDegree
+181,Hannah Michelle Bena,hbena@k-state.edu,hbena,Senior, Architectural Engineering,Senior Architectural Engineering
+182,Sneha Bera,sneharoy@k-state.edu,sneharoy,PhD, Adult Learning & Leadership,Graduate PhD Adult Learning & Leadership
+183,Allison Faith Besa,afbesa@k-state.edu,afbesa,Sophomore, Sociology,Sophomore Sociology
+184,Hengzhao Bian,bianh@k-state.edu,bianh,Graduate Masters, Electrical Engineering-M,Graduate Masters Electrical Engineering-M
+185,Ruolin Bian,rbian@k-state.edu,rbian,PhD, Agronomy,Graduate PhD Agronomy
+186,Lailah Bias,lailahb@k-state.edu,lailahb,Freshman, Animal Sciences and Industry,Freshman Animal Sciences and Industry
+187,Justin Dean Bina,jbina97@k-state.edu,jbina97,Not Found,Non Degree Graduate Graduate - General Admission,Non Degree Graduate Graduate - General Admission
+188,Quinten Jeffrey Bina,qjbina@k-state.edu,qjbina,Freshman, Agricultural Education,Freshman Agricultural Education
+189,Alyssa Jade Bly,ajbly1@k-state.edu,ajbly1,Freshman, Pre-Profes Secondary Ed,Freshman Pre-Profes Secondary Ed
+190,Spencer Edward Boaz,seboaz@k-state.edu,seboaz,Not Found,4th Year Veterinary Medicine Veterinary Medicine,4th Year Veterinary Medicine Veterinary Medicine
+191,Jana S Bray,jsbray@k-state.edu,jsbray,Freshman, Bakery Science And Mgmt,Freshman Bakery Science And Mgmt
+192,Lorraine E Bray,lebray@k-state.edu,lebray,Freshman, Animal Sciences and Industry,Freshman Animal Sciences and Industry
+193,Nicholas Edmund Bray,nickb09@k-state.edu,nickb09,Freshman, Biomedical Engineering,Freshman Biomedical Engineering
+194,Alex De-Paz,depaz@k-state.edu,depaz,Sophomore, Business Admin-PreProfessional,Sophomore Business Admin-PreProfessional
+195,Syed Haroon Bin Farrukh,sharoon@k-state.edu,sharoon,PhD, Economics,Graduate PhD Economics
+196,Emanuel Alexander Paz,elpsycongroo@k-state.edu,elpsycongroo,Senior, Mechanical Engineering,Senior Mechanical Engineering
+197,Daniel Perera,dperera@k-state.edu,dperera,Senior, Communication Studies,Senior Communication Studies
+198,Joel Scott Baier,joelb02@k-state.edu,joelb02,Senior, Marketing,Senior Marketing
+199,Rachel Baier,rmbaier@k-state.edu,rmbaier,Graduate Masters," Architecture, Architecture","Graduate Masters Architecture, Architecture"
+200,Stephanie Baugh,sbaugh@k-state.edu,sbaugh,Junior, Dietetics,Junior Dietetics
+201,Ashenafi Feyisa Beyi,afbeyi@k-state.edu,afbeyi,Not Found,Non Degree Graduate VM Graduate NonDegree GC,Non Degree Graduate VM Graduate NonDegree GC
+202,Drew Robert Boeh,boeh@k-state.edu,boeh,Senior, Data Analytics-Ug Cert-C,Senior Data Analytics-Ug Cert-C
+203,Erika Boeh,erikaboeh@k-state.edu,erikaboeh,Senior," Human Dev & Fam Science, Conflict Resolution, Spanish, Conflict Analysis&Trauma","Senior Human Dev & Fam Science, Conflict Resolution, Spanish, Conflict Analysis&Trauma"
+204,Lauren Dana Boye,ldboye@k-state.edu,ldboye,Junior, Architectural Engineering-B,Junior Architectural Engineering-B
+205,Pak Boye-Doe,pak25@k-state.edu,pak25,Senior, Leadership Studies,Senior Leadership Studies
+206,Simeon Zadkiel Buie,sbuie13@k-state.edu,sbuie13,Sophomore, Animal Sciences and Industry,Sophomore Animal Sciences and Industry
+207,Umme Fatema Piu,fatemapiu@k-state.edu,fatemapiu,Graduate Masters," Civil Engineering, Biological And Agric Engg","Graduate Masters Civil Engineering, Biological And Agric Engg"
+208,Julianna M Poe,jmpoe@k-state.edu,jmpoe,Freshman, Business Admin-PreProfessional,Freshman Business Admin-PreProfessional
+209,Fede Poi,fedepoi159@k-state.edu,fedepoi159,Freshman, Computer Science-PreProfession,Freshman Computer Science-PreProfession
